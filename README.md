@@ -2,6 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+![Google Colab](https://img.shields.io/badge/Platform-Google%20Colab-blue?style=for-the-badge&logo=googlecolab&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/HiramDeep%20Kaur-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hiram-deep-227916337/)
 
 ---
@@ -36,7 +37,7 @@ The game provides feedback on whether the guess is **too high** or **too low** u
 
 ## ⚙️ How to Run
 
-1. Open the notebook or Python script.  
+1. Open the notebook in Google Colab.  
 2. Run all cells.  
 3. Follow the on-screen prompts to enter your guesses.  
 
